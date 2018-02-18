@@ -1,3 +1,5 @@
+*.csv
+/submission
 /data
 .DS_Store
 
