@@ -12,6 +12,16 @@ Data for this project mainly includes a users and sessions dataset.
 * **Users** - demographic information about the user along with information about when and how the individual first signed up to be an Airbnb member.
 * **Sessions** - web sessions logs for users. Fields include user actions, session time, and device type for the session
 
+## Documentation
+
+* `eda.ipynb` Jupyter Notebook that contains exploratory data analysis [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/eda.ipynb)
+* `Airbnb 2.26.18 - Data Cleansing & Feature Creation.ipynb` Data Cleansing & Feature Creation [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/Airbnb%202.26.18%20-%20Data%20Cleansing%20%26%20Feature%20Creation.ipynb)
+* `Model-GBM.ipynb` Jupyter Notebook that contains boosted tree model building. [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/Model-GBM.ipynb)
+* `Model-RF.ipynb` Jupyter Notebook that contains random forest model building. [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/Model-RF.ipynb)
+* `Model-NN.ipynb` Jupyter Notebook that contains neural network model building. [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/Model-NN.ipynb)
+
+
+
 ## Directory Structure
 
 ```
@@ -27,11 +37,4 @@ project
 |
 |__ submission: a folder contains the submission file generated from python script
 ```
-
-## Documentation
-
-* `eda.ipynb` Jupyter Notebook that contains exploratory data analysis [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/eda.ipynb)
-* `Airbnb 2.26.18 - Data Cleansing & Feature Creation.ipynb` Data Cleansing & Feature Creation [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/Airbnb%202.26.18%20-%20Data%20Cleansing%20%26%20Feature%20Creation.ipynb)
-* `Model-GBM.ipynb` Jupyter Notebook that contains boosted tree model building. [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/Model-GBM.ipynb)
-* `Model-RF.ipynb` Jupyter Notebook that contains random forest model building. [[nbviewer]](http://nbviewer.jupyter.org/github/bkennedy04/msia420_airbnb_prediction/blob/master/src/Model-RF.ipynb)
 
