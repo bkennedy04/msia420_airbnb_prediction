@@ -1,5 +1,14 @@
+
+
 # Airbnb New User Bookings
+
 Where will a new guest book their first travel experience? You can find the link [here](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings).
+
+**Team Member**
+* Brooke Kennedy
+* Jamie Chen 
+* Johnny Chiu
+* Veronica Hsieh
 
 ## Business problem
 The goal is to help Airbnb predict which country a new user will make his or her first booking.
